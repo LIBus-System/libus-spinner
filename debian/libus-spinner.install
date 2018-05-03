@@ -1,0 +1,4 @@
+Board_Data.c boards/MajenkoTechnologies/libus-spinner
+Board_Defs.h boards/MajenkoTechnologies/libus-spinner
+board.txt boards/MajenkoTechnologies/libus-spinner
+chipKIT-application-32MX270F256-nobootloader.ld boards/MajenkoTechnologies/libus-spinner

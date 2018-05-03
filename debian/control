@@ -1,0 +1,19 @@
+Source: libus-spinner
+Section: boards
+XBSC-Family: pic32
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libus-spinner
+Section: boards
+Architecture: all
+XBSC-Group: Majenko Technologies
+XBSC-Subgroup: LIBus
+Depends: chipkit
+Recommends: liblibus-chipkit, libtlc59116-dtwi-chipkit, libdtwi-chipkit
+Description: LIBus Spinner Module
+
+
+
